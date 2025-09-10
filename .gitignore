@@ -1,0 +1,37 @@
+# ========================
+# Arquivos do sistema
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Arquivos temporários
+# ========================
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# ========================
+# Arquivos ocultos e cache
+# ========================
+.cache/
+.vscode/
+.idea/
+*.code-workspace
+
+# ========================
+# Dependências (futuro)
+# ========================
+node_modules/
+dist/
+build/
+
+# ========================
+# Arquivos de SO e configs locais
+# ========================
+.env
+*.local
+*.config
